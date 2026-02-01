@@ -7,3 +7,6 @@ This repository contains the research, design, and implementation work for my **
 
 The thesis aims to bridge the gap between **academic quality models** and **practical automation frameworks**, while maintaining a strong research-oriented foundation.
 
+## Thesis Motivation and Scope
+
+Modern software systems are increasingly complex, distributed, and frequently updated. Ensuring software quality under these conditions requires more than traditional manual testing approaches. This thesis explores how **standardized quality models**, **automation**, and **AI-assisted techniques** can work together to improve testing effectiveness and decision-making in quality assurance.
